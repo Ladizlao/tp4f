@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1",
+    "lugar": "London",
+    "pais": "Inglaterra",
+    "imagen": "https://media.istockphoto.com/id/1308857790/es/foto/vista-elevada-al-tower-bridge-de-londres-durante-la-puesta-de-sol.jpg?s=612x612&w=0&k=20&c=5ZGqZkzoV6jdjy9E49SPfgTNWv15YrMJ0l-9IGcTuTM=",
+    "precio": 2000,
+    "ranking": 4.8,
+    "grados": 22,
+    "duracion": 7,
+    "descripcion": "Londres la capital de Inglaterra y del Reino Unido es una ciudad vibrante donde la historia y la modernidad se entrelazan a la perfección. Fundada por los romanos y situada a orillas del río Támesis es un destino mundialmente reconocido por su rica herencia cultural representada en monumentos emblemáticos como el Big Ben la Torre de Londres y el Palacio de Buckingham. Con una población diversa de más de 8 millones de personas Londres es un centro multicultural que ofrece una mezcla única de tradiciones innovación arte y vida urbana. Su dinamismo se refleja en sus museos de clase mundial como el Museo Británico, su icónica escena teatral en el West End y su vibrante oferta gastronómica que incluye sabores de todas las culturas del mundo.",
+    "aventura": {
+      "id": 1,
+      "lugar": "London Eye",
+      "pais": "Inglaterra",
+      "aventura": "Noria",
+      "imagen": "https://wallpapers.com/images/hd/london-eye-ferris-wheel-in-united-kingdom-9ua5624z8tyck98d.jpg",
+      "duracion": 4,
+      "dificultad": 8,
+      "descripcion": "La **London Eye**, también conocida como la Noria del Milenio, es una rueda de observación icónica ubicada en el corazón de Londres, junto al río Támesis. Con 135 metros de altura, fue la más alta del mundo al momento de su inauguración en el año 2000. Su diseño futurista cuenta con 32 cápsulas de vidrio climatizadas, cada una representando un distrito de Londres, con capacidad para 25 personas. Un giro completo dura unos 30 minutos, permitiendo vistas panorámicas espectaculares de hasta 40 kilómetros en días despejados, incluyendo puntos emblemáticos como el Big Ben, el Palacio de Buckingham y la Catedral de San Pablo. Diseñada inicialmente como una atracción temporal, su popularidad la consolidó como un símbolo permanente de la ciudad y una de las atracciones más visitadas del Reino Unido.",
+      "precio": "15000"
+    }
+  },
+  {
+    "id": "2",
+    "lugar": "Paris",
+    "pais": "Francia",
+    "imagen": "https://s1.elespanol.com/2023/06/16/actualidad/771933350_234003971_855x1140.jpg",
+    "precio": 2500,
+    "ranking": 4.9,
+    "grados": 28,
+    "duracion": 10,
+    "descripcion": "París la capital de Francia es conocida como la Ciudad de la Luz y un símbolo mundial de romance arte y cultura Ubicada a orillas del río Sena esta icónica ciudad deslumbra con su arquitectura elegante que incluye monumentos legendarios como la Torre Eiffel la Catedral de Notre Dame y el Arco de Triunfo Hogar de museos de renombre como el Louvre y el Museo de Orsay París es un paraíso para los amantes del arte y la historia Su atmósfera bohemia y sofisticada se refleja en sus pintorescos cafés avenidas arboladas como los Campos Elíseos y barrios encantadores como Montmartre Además es una de las capitales de la moda y la gastronomía ofreciendo experiencias inolvidables a cada visitante",
+    "aventura": {
+      "id": 2,
+      "lugar": "Torre eiffel",
+      "pais": "Francia",
+      "aventura": "Torre Eiffel",
+      "imagen": "https://s1.elespanol.com/2023/06/16/actualidad/771933350_234003971_855x1140.jpg",
+      "duracion": 4,
+      "dificultad": 5,
+      "descripcion": "La Torre Eiffel es uno de los monumentos más emblemáticos de París y del mundo, conocida por su impresionante estructura de hierro forjado. Inaugurada en 1889 para la Exposición Universal en París, fue diseñada por el ingeniero Gustave Eiffel y originalmente criticada por muchos, pero rápidamente se convirtió en un símbolo de la ciudad. Con una altura de 330 metros, la torre fue el edificio más alto del mundo hasta la construcción del rascacielos Chrysler en Nueva York en 1930. Cuenta con varios niveles accesibles al público, ofreciendo impresionantes vistas panorámicas de París. Además, es famosa por su iluminación nocturna, que la convierte en un espectáculo visual. Hoy en día, la Torre Eiffel es una de las atracciones turísticas más visitadas del mundo, recibiendo millones de visitantes cada año.",
+      "precio": "20000"
+    }
+  },
+  {
+    "id": "3",
+    "lugar": "roma",
+    "pais": "italia",
+    "imagen": "./img/atenas.jpg",
+    "precio": 1500,
+    "ranking": 4.7,
+    "grados": 25,
+    "duracion": 5,
+    "descripcion": "Roma, la capital de Italia, es una extensa ciudad cosmopolita que tiene a la vista casi 3,000 años de arte, arquitectura y cultura de influencia mundial. Las ruinas antiguas como las del Foro y el Coliseo evocan el poder del antiguo Imperio Romano. ",
+    "aventura": {
+      "id": 3,
+      "lugar": "roma",
+      "pais": "italia",
+      "aventura": "el coliseo",
+      "imagen": "./img/acro.jpg",
+      "duracion": 2,
+      "dificultad": 4,
+      "descripcion": "El Coliseo Romano, también conocido como el Anfiteatro Flavio, es uno de los monumentos más emblemáticos de la antigua Roma y un símbolo de la ingeniería y cultura del Imperio Romano. Construido entre los años 70 y 80 d.C. bajo los emperadores Vespasiano y Tito, el Coliseo fue diseñado para ser un anfiteatro gigantesco capaz de albergar entre 50,000 y 80,000 espectadores.",
+      "precio": "10000"
+    }
+  },
+  {
+    "id": "4",
+    "lugar": "Honshu",
+    "pais": "japon",
+    "imagen": "./img/japo.jpg",
+    "precio": 1800,
+    "ranking": 4.8,
+    "grados": 18,
+    "duracion": 8,
+    "descripcion": "Honshu es la isla más grande y significativa de Japón, tanto por su extensión geográfica como por su relevancia cultural, histórica y económica. Es una de las cuatro islas principales del archipiélago japonés, junto con Hokkaido, Kyushu y Shikoku, y representa el corazón del país. Situada al sur de Hokkaido, al norte de Shikoku y al noreste de Kyushu, Honshu está rodeada por el Océano Pacífico al este y el Mar de Japón al oeste, lo que le otorga una posición estratégica y paisajes diversos.",
+    "aventura": {
+      "id": 4,
+      "lugar": "Honshu",
+      "pais": "japon",
+      "aventura": "monte fuji",
+      "imagen": "./img/bra.jpg",
+      "duracion": 5,
+      "dificultad": 9,
+      "descripcion": "El Monte Fuji (en japonés: 富士山, Fujisan) es el volcán más alto de Japón y uno de sus símbolos culturales y naturales más emblemáticos. Con una imponente altura de 3,776 metros, no solo es el punto más elevado del país, sino también un lugar cargado de significado espiritual, histórico y estético. Ubicado en la isla de Honshu, entre las prefecturas de Yamanashi y Shizuoka, al oeste de Tokio, el Monte Fuji domina el paisaje y puede ser visible desde la capital en días despejados. Su proximidad a grandes centros urbanos y su belleza lo convierten en un destino muy popular tanto para turistas como para peregrinos.",
+      "precio": "15000"
+    }
+  },
+  {
+    "id": "5",
+    "lugar": "guisa",
+    "pais": "egipto",
+    "imagen": "./img/pascua.jpg",
+    "precio": 1200,
+    "ranking": 4.6,
+    "grados": 32,
+    "duracion": 6,
+    "descripcion": "Guisa, también conocido como Giza o Guiza, es una ciudad ubicada en Egipto, famosa por ser el sitio donde se encuentran las impresionantes Pirámides de Giza, una de las principales maravillas del mundo antiguo. Es parte del área metropolitana de El Cairo, situada en la orilla occidental del río Nilo, a unos 20 kilómetros del centro de la capital egipcia.",
+    "aventura": {
+      "id": 5,
+      "lugar": "guisa",
+      "pais": "egipto",
+      "aventura": "piramide de guisa",
+      "imagen": "./img/pascua2.jpg",
+      "duracion": 4,
+      "dificultad": 5,
+      "descripcion": "Las Pirámides de Giza son un conjunto de monumentos funerarios construidos durante el Antiguo Reino de Egipto, aproximadamente entre los años 2,600 y 2,500 a.C. Este complejo arqueológico se encuentra en la meseta de Giza, cerca de El Cairo, y está compuesto por tres pirámides principales y varias estructuras asociadas. Estas pirámides son consideradas uno de los logros arquitectónicos más importantes de la humanidad y han fascinado a personas de todo el mundo durante milenios.",
+      "precio": "25000"
+    }
+  },
+  {
+    "id": "6",
+    "lugar": "mpumalanga",
+    "pais": "sud africa",
+    "imagen": "./img/estambul.jpg",
+    "precio": 3000,
+    "ranking": 4.9,
+    "grados": 26,
+    "duracion": 12,
+    "descripcion": "Mpumalanga es una de las nueve provincias de Sudáfrica, conocida por su impresionante belleza natural, rica biodiversidad y significativos atractivos turísticos. Su nombre, que en lengua siswati y zulú significa lugar donde sale el sol, hace referencia a su ubicación al este del país, donde el amanecer es especialmente hermoso sobre sus montañas y valles",
+    "aventura": {
+      "id": 6,
+      "lugar": "mpumalanga",
+      "pais": "sud africa",
+      "aventura": "parque nacional kruger",
+      "imagen": "./img/basi.jpg",
+      "duracion": 7,
+      "dificultad": 3,
+      "descripcion": "El Parque Nacional Kruger es la reserva de vida silvestre más grande y famosa de Sudáfrica, así como uno de los parques de safari más reconocidos a nivel mundial. Fundado en 1926, es un refugio de biodiversidad que protege una inmensa variedad de especies animales y vegetales, además de ofrecer una experiencia inolvidable para los amantes de la naturaleza y los safaris.",
+      "precio": "1.000.000"
+    }
+  },
+  {
+    "id": "7",
+    "lugar": "madrid",
+    "pais": "españa",
+    "imagen": "./img/mardel.jpg",
+    "precio": 3500,
+    "ranking": 4.8,
+    "grados": 30,
+    "duracion": 7,
+    "descripcion": "Madrid es la capital de España y una de las ciudades más importantes de Europa, tanto por su tamaño como por su relevancia cultural, histórica y económica. Es conocida por su rica historia, su patrimonio artístico, su vibrante vida nocturna y su papel clave en la política y economía del país. Madrid es también un centro internacional de turismo, arte y cultura.",
+    "aventura": {
+      "id": 7,
+      "lugar": "madrid",
+      "pais": "españa",
+      "aventura": "plaza españa",
+      "imagen": "./img/faro.jpg",
+      "duracion": 6,
+      "dificultad": 4,
+      "descripcion": "Plaza España es una de las plazas más emblemáticas de Madrid, ubicada en el centro de la ciudad, entre el Palacio Real y el Edificio Telefónica, y a lo largo de una de las principales avenidas de la ciudad, la Gran Vía. Esta plaza es un importante punto de referencia tanto para los residentes como para los turistas, con una gran carga histórica, cultural y arquitectónica.",
+      "precio": "5000"
+    }
+  }
+]

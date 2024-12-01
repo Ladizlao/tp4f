@@ -1,0 +1,40 @@
+[
+    {
+        "alojamientos":{
+        "id": 1,
+        "nombre": "Bariloche",
+        "descrip":"Visita la provincia de bariloche y come sus ricos chocolates con nuestro economico viaje",
+        "precio": 750.548,
+        "imagen": "../img/lugar-1.jpg"
+        }
+        
+    },
+    {
+        "alojamientos":{
+            "id": 2,
+            "nombre": "ushuaia",
+            "descrip":"Visita la provincia de ushuaia y sus lindas playas con nuestro viaje en descuento",
+            "precio": 800.400,
+            "imagen": "../img/lugar-2.jpg"
+        }
+    },
+    {
+        "alojamientos":{
+            "id": 3,
+            "nombre": "cordoba",
+            "descrip":"Visita la provincia de cordoba y sus ricos alfajores con nuestros increibles precios",
+            "precio": 700.056,
+            "imagen": "../img/lugar-3.jpg"
+        }
+    },
+    {
+        "alojamientos":{
+            "id": 4,
+            "nombre": "misiones",
+            "descrip":"Visita la provincia de misiones y sus hermosas cataratas con nuestros lindos micros",
+            "precio": 506.056,
+            "imagen": "../img/lugar-4.jpg"
+        }
+    }
+    
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "alojamientos":{
+        "id": 1,
+        "nombre": "Hotel Concorde",
+        "descrip":"El Hotel Concorde se encuentra en San Carlos de Bariloche, a 100 metros del centro cívico, y ofrece wifi gratis. Además, hay un bar.",
+        "precio": 750.548,
+        "imagen": "../img/hotel-1.jpg"
+        }
+        
+    },
+    {
+        "alojamientos":{
+            "id": 2,
+            "nombre": "Departamento AlbarracinSe ",
+            "descrip":"Departamento Albarracin es un alojamiento con wifi gratis y vistas al jardín que está en el centro de brasil",
+            "precio": 800.400,
+            "imagen": "../img/hotel-2.jpg"
+        }
+    },
+    {
+        "alojamientos":{
+            "id": 3,
+            "nombre": "BAM Rincón Apartment",
+            "descrip":"Departamento Albarracin es un alojamiento con wifi gratis y vistas al jardín que está en inglaterra",
+            "precio": 700.056,
+            "imagen": "../img/hotel-3.jpg"
+        }
+    },
+    {
+        "alojamientos":{
+            "id": 4,
+            "nombre": "Kaimana Inn Hotel Restaurant",
+            "descrip":"Kaimana Inn Hotel se encuentra en las islas de pascua , a 2,6 km de los moais",
+            "precio": 506.056,
+            "imagen": "../img/hotel-4.jpg"
+        }
+    },
+    {
+        "alojamientos":{
+            "id": 5,
+            "nombre": "Nayara Hangaroa",
+            "descrip":"Nayara Hangaroa se encuentra en las islas de pascua , a 3 km de los moais y a 30m de el centro",
+            "precio": 400.056,
+            "imagen": "../img/hotel-5.jpg"
+        }
+    }
+    
+]
