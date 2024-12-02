@@ -5,7 +5,7 @@
         "nombre": "Hotel Concorde",
         "descrip":"El Hotel Concorde se encuentra en San Carlos de Bariloche, a 100 metros del centro cívico, y ofrece wifi gratis. Además, hay un bar.",
         "precio": 750.548,
-        "imagen": "../img/hotel-1.jpg"
+        "imagen": "./img/hotel-1.jpg"
         }
         
     },
