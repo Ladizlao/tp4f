@@ -15,7 +15,7 @@
             "nombre": "Departamento AlbarracinSe ",
             "descrip":"Departamento Albarracin es un alojamiento con wifi gratis y vistas al jardín que está en el centro de brasil",
             "precio": 800.400,
-            "imagen": "../img/hotel-2.jpg"
+            "imagen": "./img/hotel-2.jpg"
         }
     },
     {
@@ -24,7 +24,7 @@
             "nombre": "BAM Rincón Apartment",
             "descrip":"Departamento Albarracin es un alojamiento con wifi gratis y vistas al jardín que está en inglaterra",
             "precio": 700.056,
-            "imagen": "../img/hotel-3.jpg"
+            "imagen": "./img/hotel-3.jpg"
         }
     },
     {
@@ -33,7 +33,7 @@
             "nombre": "Kaimana Inn Hotel Restaurant",
             "descrip":"Kaimana Inn Hotel se encuentra en las islas de pascua , a 2,6 km de los moais",
             "precio": 506.056,
-            "imagen": "../img/hotel-4.jpg"
+            "imagen": "./img/hotel-4.jpg"
         }
     },
     {
