@@ -42,7 +42,7 @@
             "nombre": "Nayara Hangaroa",
             "descrip":"Nayara Hangaroa se encuentra en las islas de pascua , a 3 km de los moais y a 30m de el centro",
             "precio": 400.056,
-            "imagen": "../img/hotel-5.jpg"
+            "imagen": "./img/hotel-5.jpg"
         }
     }
     
